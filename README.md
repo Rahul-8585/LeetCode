@@ -14,9 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rahul-8585/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rahul-8585/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rahul-8585/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rahul-8585/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->

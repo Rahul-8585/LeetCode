@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rahul-8585/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rahul-8585/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rahul-8585/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rahul-8585/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul-8585/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul-8585/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rahul-8585/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rahul-8585/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rahul-8585/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul-8585/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -66,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul-8585/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul-8585/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahul-8585/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
@@ -114,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul-8585/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahul-8585/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rahul-8585/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -160,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-8585/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

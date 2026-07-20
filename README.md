@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rahul-8585/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul-8585/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rahul-8585/LeetCode/tree/master/0134-gas-station) |
+| [1260-shift-2d-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Rahul-8585/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rahul-8585/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Rahul-8585/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rahul-8585/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/Rahul-8585/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Sliding Window
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-8585/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rahul-8585/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

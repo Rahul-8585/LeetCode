@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rahul-8585/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rahul-8585/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-8585/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rahul-8585/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Rahul-8585/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rahul-8585/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rahul-8585/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -200,4 +201,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rahul-8585/LeetCode/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rahul-8585/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/Rahul-8585/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->

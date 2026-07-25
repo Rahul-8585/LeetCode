@@ -12,7 +12,7 @@ class Solution {
         Set<Character> set = new HashSet<>();
         while(r<n){
             char ch = s.charAt(r);
-            while(set.contains(ch)){
+            while(set.contains(ch) && l<=r){
                 set.remove(s.charAt(l));
                 l++;
             }

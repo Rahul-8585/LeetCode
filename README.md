@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rahul-8585/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-8585/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Rahul-8585/LeetCode/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/Rahul-8585/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Rahul-8585/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Rahul-8585/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul-8585/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/Rahul-8585/LeetCode/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-8585/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Rahul-8585/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rahul-8585/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/Rahul-8585/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul-8585/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-8585/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Rahul-8585/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-8585/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Rahul-8585/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rahul-8585/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -266,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul-8585/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rahul-8585/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

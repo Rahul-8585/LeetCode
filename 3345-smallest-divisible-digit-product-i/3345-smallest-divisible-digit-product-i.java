@@ -1,21 +1,18 @@
 class Solution {
-
     public int smallestNumber(int n, int t) {
-        while (!check(n, t)) {
+        
+        while(n<=100){
+            int prod = 1;
+            int num = n;
+            while(num>0){
+                int rem = num%10;
+                prod = prod*rem;
+                num = num/10;
+            }
+            if(prod % t == 0) return n;
+
             n++;
         }
-        return n;
-    }
-
-    private boolean check(int num, int t) {
-        int product = 1;
-        while (num > 0) {
-            product *= num % 10;
-            num /= 10;
-            if (product == 0) {
-                break;
-            }
-        }
-        return product % t == 0;
+        return -1;
     }
 }

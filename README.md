@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul-8585/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/Rahul-8585/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahul-8585/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul-8585/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul-8585/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rahul-8585/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-8585/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Rahul-8585/LeetCode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Rahul-8585/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Rahul-8585/LeetCode/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul-8585/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rahul-8585/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Rahul-8585/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul-8585/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -278,12 +280,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Rahul-8585/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Rahul-8585/LeetCode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Rahul-8585/LeetCode/tree/master/0735-asteroid-collision) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul-8585/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rahul-8585/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Rahul-8585/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Rahul-8585/LeetCode/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahul-8585/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rahul-8585/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Counting Sort
 |  |

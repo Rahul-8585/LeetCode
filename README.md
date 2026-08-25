@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Rahul-8585/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rahul-8585/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Rahul-8585/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Rahul-8585/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rahul-8585/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Rahul-8585/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rahul-8585/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Rahul-8585/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rahul-8585/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Rahul-8585/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rahul-8585/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rahul-8585/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Rahul-8585/LeetCode/tree/master/0437-path-sum-iii) |
 | [0785-is-graph-bipartite](https://github.com/Rahul-8585/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-8585/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rahul-8585/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rahul-8585/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Rahul-8585/LeetCode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Rahul-8585/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-8585/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rahul-8585/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Rahul-8585/LeetCode/tree/master/3310-remove-methods-from-project) |

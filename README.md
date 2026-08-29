@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahul-8585/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rahul-8585/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Rahul-8585/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rahul-8585/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rahul-8585/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rahul-8585/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rahul-8585/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rahul-8585/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Rahul-8585/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Rahul-8585/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rahul-8585/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul-8585/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rahul-8585/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul-8585/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rahul-8585/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rahul-8585/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rahul-8585/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rahul-8585/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |

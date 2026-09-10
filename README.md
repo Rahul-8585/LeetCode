@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rahul-8585/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-8585/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rahul-8585/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rahul-8585/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rahul-8585/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -358,11 +359,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rahul-8585/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rahul-8585/LeetCode/tree/master/0437-path-sum-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rahul-8585/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rahul-8585/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rahul-8585/LeetCode/tree/master/0437-path-sum-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rahul-8585/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
 | ------- |

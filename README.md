@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rahul-8585/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Rahul-8585/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Rahul-8585/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/Rahul-8585/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Rahul-8585/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahul-8585/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/Rahul-8585/LeetCode/tree/master/0402-remove-k-digits) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rahul-8585/LeetCode/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Rahul-8585/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0785-is-graph-bipartite](https://github.com/Rahul-8585/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-8585/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rahul-8585/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Rahul-8585/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rahul-8585/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahul-8585/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Rahul-8585/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rahul-8585/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul-8585/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rahul-8585/LeetCode/tree/master/0134-gas-station) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rahul-8585/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Rahul-8585/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-8585/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Rahul-8585/LeetCode/tree/master/0735-asteroid-collision) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rahul-8585/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Rahul-8585/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul-8585/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rahul-8585/LeetCode/tree/master/0877-stone-game) |
